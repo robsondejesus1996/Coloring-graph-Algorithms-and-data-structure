@@ -66,6 +66,7 @@ public class GraphViz
     */
    private static String DOT        = "C:/Program Files (x86)/Graphviz 2.28/bin/dot.exe";
 //   linux "/usr/bin/circo";
+// "C:/Program Files (x86)/Graphviz 2.28/bin/dot.exe";   
 
    /**
     * The source of the graph written in dot language.
