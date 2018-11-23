@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * 
  */
 public class Vertice {
-//colocando a lista de adjacencia nele mesmo e a cor 
+//colocando a lista de adjacencia nele mesmo e a cor.
     private String nome;
     private ArrayList<Vertice> adjacencia;
     private Cor cor;
