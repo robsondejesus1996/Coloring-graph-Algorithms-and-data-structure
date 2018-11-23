@@ -157,6 +157,7 @@ public class Desenha {
         return (retorno);
     }
 
+    // 17 cores para polular as aresta com sua respectiva regra
     private void populacores() {
         cores.clear();
         cores.add(new Cor("#ff0000", "#ffffff"));
